@@ -1,7 +1,7 @@
 title: "Curso de programación avanzada"
 description: "Curso chido!!"
 markdown: kramdown
-theme: jekyll-theme-primer
+theme: minimal
 collections:
   fichas:
     output: true
