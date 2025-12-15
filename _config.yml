@@ -3,5 +3,7 @@ description: "Curso chido!!"
 markdown: kramdown
 theme: minima
 collections:
+  temas:
+    output: true
   fichas:
     output: true
