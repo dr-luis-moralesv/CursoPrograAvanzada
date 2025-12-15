@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Curso de programación avanzada
-subtitle: Facultad de Ingeniería - San Juan del Río, UAQ
 ---
 
 # Programación Avanzada para Ingeniería
