@@ -1,7 +1,7 @@
 ---
+layout: default
 title: "Introducción a Python"
 author: "Dr. Luis Morales Velazquez"
-theme: jekyll-theme-slate
 ---
 
 # Introducción a Python
