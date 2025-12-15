@@ -1,6 +1,6 @@
 async function consultarIA() {
   const response = await fetch(
-    "https://script.google.com/macros/s/AKfycby3y446NKLPaetfIEet8deUOaxwC_TQCaZREULL3as2fUSn38pjt1Ve5oJc4QXIVwfs9g/exec",
+    "https://script.google.com/macros/s/AKfycbwSZrAcTeZ1JATX6YnGyhF4nmco4q1B5tvFIi0v8TfqYJrPr_VIq0402vZWjECXZN0x/exec",
     {
       method: "POST",
       body: JSON.stringify({
