@@ -20,4 +20,4 @@ Liga a un video
 
 <div id="ai-response" class="ai-box"></div>
 <button onclick="consultarIA()">Consultar</button>
-
+<script src="/assets/ia.js"></script>
