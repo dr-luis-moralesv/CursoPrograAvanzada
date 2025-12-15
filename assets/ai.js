@@ -4,7 +4,7 @@ async function consultarIA() {
     {
       method: "POST",
       body: JSON.stringify({
-        prompt: "Explica este concepto"
+        prompt: "Explica brevemente el concepto de aprendizaje basado en problemas"
       })
     }
   );
