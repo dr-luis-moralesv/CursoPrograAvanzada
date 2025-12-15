@@ -50,3 +50,8 @@ print(type(x))
 x = "Programación"
 print(type(x))
 ```
+## Asignación forzada de tipo de dato
+```python
+x = float(20.5)                         # a flotante
+x = list(("apple", "banana", "cherry")) # a lista
+```
