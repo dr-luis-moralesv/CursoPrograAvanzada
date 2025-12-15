@@ -17,3 +17,9 @@ function consultarIA() {
 
   document.getElementById("ai-response").innerText = data.reply;
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  document
+    .getElementById("btnIA")
+    .addEventListener("click", consultarIA);
+});
