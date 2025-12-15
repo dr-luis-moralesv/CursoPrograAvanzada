@@ -38,9 +38,9 @@ x = {"apple", "banana", "cherry"} 	      # set
 x = frozenset({"apple", "banana", "cherry"})  # frozenset 	
 x = True 	                              # bool 	
 x = b"Hello" 	                              # bytes 	
-x = bytearray(5) 	                       # bytearray 	
-x = memoryview(bytes(5)) 	               # memoryview 	
-x = None 	                               # NoneType
+x = bytearray(5) 	                      # bytearray 	
+x = memoryview(bytes(5)) 	              # memoryview 	
+x = None 	                              # NoneType
 ```
 
 ## Cambio de tipo de dato
