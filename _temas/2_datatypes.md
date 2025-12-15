@@ -9,12 +9,12 @@ Python usa un modelo de tipos dinámicos, donde no las variables se ajustan de f
 
 Se reconocen los siguientes tipos de datos:
 - Texto: **str**
-- Números: **int**,**float**,**complex**
-- Secuencias: **list**,**tuple**,**range**
+- Números: **int**, **float**, **complex**
+- Secuencias: **list**, **tuple**, **range**
 - Mapeo (diccionarios): **dict**
-- Conjuntos: **set**,**frozenset**
+- Conjuntos: **set**, **frozenset**
 - Boleano: **bool**
-- Binario: **bytes**,**bytearray**,**memoryview**
+- Binario: **bytes**, **bytearray**, **memoryview**
 - Ninguno: **NoneType**
 
 
