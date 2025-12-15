@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: "Introducción a Python"
 author: "Dr. Luis Morales Velazquez"
 ---
