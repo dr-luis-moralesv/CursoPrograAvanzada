@@ -1,7 +1,7 @@
 ---
 title: "Introducción a Python"
 author: "Dr. Luis Morales Velazquez"
-theme: black
+theme: slate
 ---
 
 # Introducción a Python
