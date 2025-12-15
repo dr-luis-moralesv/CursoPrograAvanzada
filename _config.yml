@@ -1,7 +1,16 @@
 title: "Curso de programación avanzada"
 description: "Elaborado por Dr. Luis Morales Velázquez en la Universidad Autónoma de Querétaro (FI-SJR)"
-markdown: kramdown
 theme: minima
+
+author:
+  name: Dr. Luis Morales Velázquez
+  email: luis.moralesv@uaq.mx
+  
+header_pages:
+  - index.md
+
+markdown: kramdown
+
 collections:
   temas:
     output: true
