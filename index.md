@@ -7,6 +7,18 @@ title: Curso de programación avanzada
 
 Este documento está escrito en **Markdown** y será renderizado como **HTML** usando GitHub Pages.
 
+## Temario del curso
+
+<ul>
+{% for tema in site.temas %}
+  <li>
+    <a href="{{ tema.url | relative_url }}">
+      {{ tema.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 ## Fichas técnicas
 
 <ul>
