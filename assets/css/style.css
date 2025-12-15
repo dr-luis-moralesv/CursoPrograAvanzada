@@ -38,3 +38,15 @@ table, th, td {
   border: 1px solid #666;
   padding: 0.5em;
 }
+
+.google-form {
+  width: 100%;
+  min-height: 900px;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .google-form {
+    min-height: 1200px;
+  }
+}
