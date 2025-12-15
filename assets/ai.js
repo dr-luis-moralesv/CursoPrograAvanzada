@@ -1,4 +1,5 @@
 async function consultarIA() {
+  console.log("ia.js cargado");
   const response = await fetch(
     "https://script.google.com/macros/s/AKfycbwSZrAcTeZ1JATX6YnGyhF4nmco4q1B5tvFIi0v8TfqYJrPr_VIq0402vZWjECXZN0x/exec",
     {
