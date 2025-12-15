@@ -17,4 +17,8 @@ Se reconocen los siguientes tipos de datos:
 - Binario: **bytes**, **bytearray**, **memoryview**
 - Ninguno: **NoneType**
 
-
+## Ejemplo de declaración de variables
+```python
+x = 5
+print(type(x))
+```
