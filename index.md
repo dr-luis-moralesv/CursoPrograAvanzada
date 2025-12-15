@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Curso de programación avanzada
+subtitle: Facultad de Ingeniería - San Juan del Río, UAQ
 ---
 
-# Introducción
+# Programación Avanzada para Ingeniería
 
 Este documento está escrito en **Markdown** y será renderizado como **HTML** usando GitHub Pages.
 
