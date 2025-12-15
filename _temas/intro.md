@@ -8,4 +8,4 @@ author: "Dr. Luis Morales Velazquez"
 
 Python es un lenguaje bla bla bla.
 
-![Código QR](../qr_codes/d31f63dc9eb5d4f120751bcb286ee609.png)
+![Código QR](../qr_codes/d31f63dc9eb5d4f120751bcb286ee609.png){ width=50% }
