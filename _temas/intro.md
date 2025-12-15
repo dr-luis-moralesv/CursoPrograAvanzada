@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Python"
+title: "Introducción a Python"
 author: "Dr. Luis Morales Velazquez"
 theme: black
 ---
