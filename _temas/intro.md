@@ -19,8 +19,6 @@ Liga a un video
 ## Asistente interactivo
 
 <div id="ai-response" class="ai-box"></div>
-
 <button onclick="consultarIA()">Consultar</button>
-
 <script src="/assets/ai.js"></script>
-<link rel="stylesheet" href="/assets/ai.css">
+
