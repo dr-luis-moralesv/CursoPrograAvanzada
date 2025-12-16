@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2.- Sintaxis de Python"
+title: "Sintaxis de Python"
 author: "Dr. Luis Morales Velazquez"
 ---
 
