@@ -24,7 +24,9 @@ print(type(x))
 ```
 
 ## Asignación de valores
-El tipo de datos del valor asignado da forma al tipo de dato de la variable
+
+El tipo de datos del valor asignado da forma al tipo de dato de la variable.
+
 ```python
 x = "Hello World" 	                      # str 	
 x = 20 	                                      # int 	
@@ -44,6 +46,9 @@ x = None 	                              # NoneType
 ```
 
 ## Cambio de tipo de dato
+
+Para cambiar el tipo de dato de una variable en Python solo se requiere volver a asignar dicha variable.
+
 ```python
 x = 5
 print(type(x))
@@ -51,6 +56,9 @@ x = "Programación"
 print(type(x))
 ```
 ## Asignación forzada de tipo de dato
+
+Para establecer un tipo de dato por adelantado a una asignación, se hace mediante *casting* (amoldado).
+
 ```python
 x = float(20.5)                         # a flotante
 x = list(("apple", "banana", "cherry")) # a lista
