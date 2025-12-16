@@ -36,7 +36,14 @@ print(f"El valor de la variable x es {x} !")
 
 ## Entrada de datos
 
+Leer datos desde la consola en Python es muy sencillo, se usa la función `input()`, dentro del paréntesis se coloca el mensaje deseado y la función retorna el valor convertido al tipo de dato identificado.
+
 ```python
 num = input("Escribe un número: ")
 print("El número es ",num)
 ```
+
+# Videos recomendados
+
+[![Video: Uso del print](https://img.youtube.com/vi/cVUwwZ9IVGI/0.jpg)](https://www.youtube.com/watch?v=cVUwwZ9IVGI&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+
