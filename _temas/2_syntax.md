@@ -13,12 +13,12 @@ Usa una sintáxis simple con pocos marcadores, cuyas principales reglas son:
 - Las expresiones siguen las reglas generales de C.
 
 # Bloques de código marcados por espacios
-Código correcto
+Código correcto ✅
 ```python
 if 5 > 2:
   print("Cinco es mayor que dos!")
 ```
-Código incorrecto
+Código incorrecto ❌
 ```python
 if 5 > 2:
 print("Cinco es mayor que dos!")
