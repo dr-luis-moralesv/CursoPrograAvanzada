@@ -7,5 +7,5 @@ nivel: 1
 Bienvenido al Tema 1.
 
 ## Fichas
-- [Tema 1](1-unidad/intro)
+- [Tema 1](1-unidad/intro.html)
 - [Tema 2](2_syntax/)
