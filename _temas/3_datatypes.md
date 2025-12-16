@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Variables y tipos de datos en Python"
+title: "Variables y tipos de datos"
 author: "Dr. Luis Morales Velazquez"
 ---
 
