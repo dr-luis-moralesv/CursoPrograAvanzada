@@ -6,7 +6,7 @@ title: Curso de programación avanzada
 # Programación Avanzada para Ingeniería
 
 <p style="text-align: justify;">
-El curso de Programación Avanzada para Ingeniería Mecatrónica tiene como propósito desarrollar en el estudiante las competencias técnicas y cognitivas necesarias para diseñar, implementar e integrar soluciones de software aplicadas a sistemas mecatrónicos, considerando requerimientos de desempeño, interacción humano–máquina y comunicación con hardware especializado.
+El curso de Programación Avanzada para Ingeniería Electromecánica tiene como propósito desarrollar en el estudiante las competencias técnicas y cognitivas necesarias para diseñar, implementar e integrar soluciones de software aplicadas a sistemas mecatrónicos, considerando requerimientos de desempeño, interacción humano–máquina y comunicación con hardware especializado.
 </p>
   
 <p style="text-align: justify;">
@@ -14,7 +14,7 @@ Desde el enfoque de formación por competencias, el curso busca que el participa
 </p>
 
 <p style="text-align: justify;">
-Al término del curso, el estudiante será capaz de desarrollar soluciones de programación integrales, alineadas a requerimientos técnicos y funcionales, demostrando desempeño competente en el diseño de aplicaciones, la integración software–hardware y la resolución de problemas reales del entorno profesional de la Ingeniería Mecatrónica.
+Al término del curso, el estudiante será capaz de desarrollar soluciones de programación integrales, alineadas a requerimientos técnicos y funcionales, demostrando desempeño competente en el diseño de aplicaciones, la integración software–hardware y la resolución de problemas reales del entorno profesional de la Ingeniería Electromecánica.
 </p>
 
 ## Temario del curso
