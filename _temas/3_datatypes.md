@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "3.- Tipos de datos en Python"
+title: "Tipos de datos en Python"
 author: "Dr. Luis Morales Velazquez"
 ---
 
