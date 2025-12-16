@@ -42,7 +42,7 @@ En conjunto, Python proporciona al ingeniero electromecánico una plataforma fle
 | Integración entre ambos | Puede exponerse como librería | Puede llamar código C mediante extensiones |
 
 <p style="text-align: justify;">
-En el contexto industrial actual, la integración de C y Python se ha consolidado como una estrategia equilibrada frente al uso de otros lenguajes ampliamente adoptados en la industria, como C++, Java, C# o lenguajes específicos de automatización. Mientras que estos últimos suelen ofrecer entornos robustos y especializados, la combinación de C y Python permite cubrir un amplio espectro de necesidades con menor complejidad estructural, manteniendo al mismo tiempo altos niveles de desempeño y flexibilidad.
+En el contexto industrial actual, la integración de <b> C </b> y <b> Python </b> se ha consolidado como una estrategia equilibrada frente al uso de otros lenguajes ampliamente adoptados en la industria, como C++, Java, C# o lenguajes específicos de automatización. Mientras que estos últimos suelen ofrecer entornos robustos y especializados, la combinación de C y Python permite cubrir un amplio espectro de necesidades con menor complejidad estructural, manteniendo al mismo tiempo altos niveles de desempeño y flexibilidad.
 </p>
 
 <p style="text-align: justify;">
