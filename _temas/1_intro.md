@@ -20,6 +20,27 @@ En el ámbito de la Ingeniería Electromecánica, Python se emplea de manera efe
 En conjunto, Python proporciona al ingeniero electromecánico una plataforma flexible y potente para desarrollar soluciones técnicas, reducir tiempos de desarrollo y abordar problemas complejos de manera estructurada, alineándose con las demandas actuales de la industria y la investigación aplicada.
 </p>
 
+## Principales diferencias entre C y Python
+
+| Aspecto | Lenguaje C | Lenguaje Python |
+|--------|------------|-----------------|
+| Nivel del lenguaje | Bajo nivel (cercano al hardware) | Alto nivel (abstracción elevada) |
+| Paradigma principal | Procedimental | Multiparadigma (procedimental, orientado a objetos, funcional) |
+| Forma de ejecución | Compilado a código máquina | Interpretado (bytecode sobre una máquina virtual) |
+| Control de memoria | Manual (uso explícito de `malloc`, `free`, punteros) | Automático (recolección de basura) |
+| Tipado | Estático y débil | Dinámico y fuerte |
+| Curva de aprendizaje | Más pronunciada; requiere comprensión de arquitectura y memoria | Más accesible; sintaxis simple y legible |
+| Velocidad de ejecución | Muy alta; adecuada para tiempo real y sistemas críticos | Menor que C; adecuada para prototipado y aplicaciones de alto nivel |
+| Portabilidad | Alta, pero dependiente del compilador y la plataforma | Muy alta; mismo código en múltiples plataformas |
+| Gestión de errores | Limitada; basada en códigos de retorno | Avanzada; manejo de excepciones |
+| Bibliotecas estándar | Reducidas; orientadas a sistema | Amplias; incluyen matemáticas, ciencia de datos, redes, GUI, etc. |
+| Acceso al hardware | Directo y preciso | Indirecto; a través de bibliotecas o extensiones |
+| Uso en sistemas embebidos | Muy común y dominante | Limitado; principalmente para capas de supervisión |
+| Uso típico en ingeniería | Firmware, control en tiempo real, drivers | Análisis de datos, simulación, automatización, interfaces |
+| Tiempo de desarrollo | Largo | Corto |
+| Mantenimiento del código | Más complejo | Más sencillo |
+| Integración entre ambos | Puede exponerse como librería | Puede llamar código C mediante extensiones |
+
 
 Formulario embebido
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkzQtNjf9lbGkEhGn7E8yijIophqqy0manJxXEXRw8DHRgEg/viewform?embedded=true" width="640" height="682" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
