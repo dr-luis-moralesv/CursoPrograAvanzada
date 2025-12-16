@@ -1,3 +1,8 @@
+---
+layout: default
+title: "2.- Sintaxis de Python"
+author: "Dr. Luis Morales Velazquez"
+---
 
 # Sintaxis de Python
 Python es un lenguaje de programación pensado para ser compacto y ordenado.
