@@ -55,3 +55,9 @@ print(type(x))
 x = float(20.5)                         # a flotante
 x = list(("apple", "banana", "cherry")) # a lista
 ```
+
+# Videos recomendados
+
+[![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Gf9wLsCJDqc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+[![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Hsbo6V2BJ3U&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+
