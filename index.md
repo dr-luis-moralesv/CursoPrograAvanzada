@@ -10,7 +10,7 @@ El curso de Programación Avanzada para Ingeniería Mecatrónica tiene como prop
 </p>
   
 <p style="text-align: justify;">
-Desde el enfoque de formación por competencias, el curso busca que el participante aplique conocimientos, habilidades y actitudes para resolver problemas propios del ámbito mecatrónico mediante el uso combinado de lenguajes de programación de alto y bajo nivel. En particular, se promueve el dominio de <b> Python </b> como herramienta para el desarrollo de aplicaciones técnicas, automatización y manejo estructurado de información, así como la creación de interfaces gráficas con **PyQt** orientadas a la supervisión, control y visualización de procesos.
+Desde el enfoque de formación por competencias, el curso busca que el participante aplique conocimientos, habilidades y actitudes para resolver problemas propios del ámbito mecatrónico mediante el uso combinado de lenguajes de programación de alto y bajo nivel. En particular, se promueve el dominio de <b>Python</b> como herramienta para el desarrollo de aplicaciones técnicas, automatización y manejo estructurado de información, así como la creación de interfaces gráficas con <b>PyQt</b>b>  orientadas a la supervisión, control y visualización de procesos.
 </p>
 
 <p style="text-align: justify;">
