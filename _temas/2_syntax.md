@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sintaxis de Python"
+title: "Sintaxis del lenguaje"
 author: "Dr. Luis Morales Velazquez"
 ---
 
