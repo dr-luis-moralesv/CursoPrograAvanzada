@@ -27,7 +27,7 @@ En conjunto, Python proporciona al ingeniero electromecánico una plataforma fle
 | Nivel del lenguaje | Bajo nivel (cercano al hardware) | Alto nivel (abstracción elevada) |
 | Paradigma principal | Procedimental | Multiparadigma (procedimental, orientado a objetos, funcional) |
 | Forma de ejecución | Compilado a código máquina | Interpretado (bytecode sobre una máquina virtual) |
-| Control de memoria | Manual (uso explícito de `malloc`, `free`, punteros) | Automático (recolección de basura) |
+| Control de memoria | Manual (uso explícito de `malloc()`, `free()`, punteros) | Automático (recolección de basura) |
 | Tipado | Estático y débil | Dinámico y fuerte |
 | Curva de aprendizaje | Más pronunciada; requiere comprensión de arquitectura y memoria | Más accesible; sintaxis simple y legible |
 | Velocidad de ejecución | Muy alta; adecuada para tiempo real y sistemas críticos | Menor que C; adecuada para prototipado y aplicaciones de alto nivel |
@@ -41,6 +41,17 @@ En conjunto, Python proporciona al ingeniero electromecánico una plataforma fle
 | Mantenimiento del código | Más complejo | Más sencillo |
 | Integración entre ambos | Puede exponerse como librería | Puede llamar código C mediante extensiones |
 
+<p style="text-align: justify;">
+En el contexto industrial actual, la integración de C y Python se ha consolidado como una estrategia equilibrada frente al uso de otros lenguajes ampliamente adoptados en la industria, como C++, Java, C# o lenguajes específicos de automatización. Mientras que estos últimos suelen ofrecer entornos robustos y especializados, la combinación de C y Python permite cubrir un amplio espectro de necesidades con menor complejidad estructural, manteniendo al mismo tiempo altos niveles de desempeño y flexibilidad.
+</p>
+
+<p style="text-align: justify;">
+C aporta la base de ejecución eficiente y control del hardware, comparable a la ofrecida por C++ en sistemas críticos, mientras que Python compite favorablemente con lenguajes de más alto nivel en tareas de integración, análisis y supervisión, gracias a su ecosistema de bibliotecas y su rápida curva de adopción. Esta complementariedad facilita la interoperabilidad con tecnologías existentes y reduce la dependencia de entornos propietarios, lo que resulta especialmente valioso en escenarios industriales donde la escalabilidad, la portabilidad y el mantenimiento a largo plazo son factores determinantes.
+</p>
+
+<p style="text-align: justify;">
+En conjunto, el uso integrado de C y Python representa una solución pragmática y alineada con las tendencias modernas de la industria, al permitir desarrollar sistemas híbridos que aprovechan lo mejor de ambos mundos y que pueden coexistir e interactuar eficazmente con otros lenguajes y plataformas presentes en entornos industriales complejos.
+</p>
 
 Formulario embebido
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkzQtNjf9lbGkEhGn7E8yijIophqqy0manJxXEXRw8DHRgEg/viewform?embedded=true" width="640" height="682" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
