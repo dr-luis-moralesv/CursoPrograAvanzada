@@ -23,7 +23,7 @@ Código incorrecto
 if 5 > 2:
 print("Cinco es mayor que dos!")
 ```
-# Ejecución del código
+# Ejecución de código
 El código se almacena en archivos con extensión '.py'. Requiere de un intérprete ya que el código no se compila, sino que se interpreta por una herramienta externa.
 Para ejecutar código basta con escribir en la consola:
 ```bash
