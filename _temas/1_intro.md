@@ -46,11 +46,7 @@ En el contexto industrial actual, la integración de <b> C </b> y <b> Python </b
 </p>
 
 <p style="text-align: justify;">
-C aporta la base de ejecución eficiente y control del hardware, comparable a la ofrecida por C++ en sistemas críticos, mientras que Python compite favorablemente con lenguajes de más alto nivel en tareas de integración, análisis y supervisión, gracias a su ecosistema de bibliotecas y su rápida curva de adopción. Esta complementariedad facilita la interoperabilidad con tecnologías existentes y reduce la dependencia de entornos propietarios, lo que resulta especialmente valioso en escenarios industriales donde la escalabilidad, la portabilidad y el mantenimiento a largo plazo son factores determinantes.
-</p>
-
-<p style="text-align: justify;">
-En conjunto, el uso integrado de C y Python representa una solución pragmática y alineada con las tendencias modernas de la industria, al permitir desarrollar sistemas híbridos que aprovechan lo mejor de ambos mundos y que pueden coexistir e interactuar eficazmente con otros lenguajes y plataformas presentes en entornos industriales complejos.
+C aporta la base de ejecución eficiente y control del hardware, comparable a la ofrecida por C++ en sistemas críticos, mientras que Python compite favorablemente con lenguajes de más alto nivel en tareas de integración, análisis y supervisión, gracias a su ecosistema de bibliotecas y su rápida curva de adopción. En conjunto, el uso integrado de C y Python representa una solución pragmática y alineada con las tendencias modernas de la industria, al permitir desarrollar sistemas híbridos que aprovechan lo mejor de ambos mundos y que pueden coexistir e interactuar eficazmente con otros lenguajes y plataformas presentes en entornos industriales complejos.
 </p>
 
 Formulario embebido
