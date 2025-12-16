@@ -1,12 +1,7 @@
 title: "Curso de programación avanzada"
 description: "Universidad Autónoma de Querétaro (FI-SJR)"
 theme: minima
-
 author: Dr. Luis Morales Velázquez luis.moralesv@uaq.mx
-  
-header_pages:
-  - index.md
-
 markdown: kramdown
 
 collections:
