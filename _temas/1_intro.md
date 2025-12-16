@@ -1,7 +1,7 @@
 ---
-layout: minimal
 title: "Introducción a Python"
 author: "Dr. Luis Morales Velazquez"
+layout: minima
 ---
 
 # Introducción a Python
