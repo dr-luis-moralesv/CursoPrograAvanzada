@@ -19,6 +19,7 @@ Este documento está escrito en **Markdown** y será renderizado como **HTML** u
 {% endfor %}
 </ol>
 
+## Cosas
 <ol>
 {% assign temas = site.temas | where: "nivel", 1 %}
 {% for t in temas %}
