@@ -60,9 +60,9 @@ x = list(("apple", "banana", "cherry")) # a lista
 
 ## Declaración de variables
 
-[![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Gf9wLsCJDqc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+[![Video: Declaracion de variables](https://img.youtube.com/vi/Gf9wLsCJDqc/0.jpg)](https://www.youtube.com/watch?v=Gf9wLsCJDqc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
 
 ## Reglas de nomenclatura para variables
 
-[![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Hsbo6V2BJ3U&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+[![Video: Declaracion de variables](https://img.youtube.com/vi/Hsbo6V2BJ3U/0.jpg)](https://www.youtube.com/watch?v=Hsbo6V2BJ3U&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
 
