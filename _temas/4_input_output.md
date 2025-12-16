@@ -43,7 +43,7 @@ num = input("Escribe un número: ")
 print("El número es ",num)
 ```
 
-# Videos recomendados
+# Video recomendado
 
 [![Video: Uso del print](https://img.youtube.com/vi/cVUwwZ9IVGI/0.jpg)](https://www.youtube.com/watch?v=cVUwwZ9IVGI&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
 
