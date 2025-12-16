@@ -40,4 +40,6 @@ Adicionalmente, es posible usar intérpretes en línea como:
 - [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
 - [https://www.w3schools.com/python/trypython.asp?filename=demo_default](https://www.w3schools.com/python/trypython.asp?filename=demo_default)
 
+# Video explicativo
 
+[![Video: Tipos de datos](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=4WVZBtqqVM4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
