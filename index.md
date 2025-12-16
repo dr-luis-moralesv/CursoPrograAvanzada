@@ -19,6 +19,25 @@ Este documento está escrito en **Markdown** y será renderizado como **HTML** u
 {% endfor %}
 </ol>
 
+<ol>
+{% assign temas = site.temas | where: "nivel", 1 %}
+{% for t in temas %}
+  <li>
+    <a href="{{ t.url }}">{{ t.title }}</a>
+
+    {% assign temas = site.temas | where: "parent", t.slug %}
+    {% if temas.size > 0 %}
+      <ul>
+      {% for f in temas %}
+        <li><a href="{{ f.url }}">{{ f.title }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+
+  </li>
+{% endfor %}
+</ol>
+
 ## Fichas técnicas
 
 <ul>
