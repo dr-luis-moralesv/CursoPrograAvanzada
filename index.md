@@ -9,7 +9,7 @@ Este documento está escrito en **Markdown** y será renderizado como **HTML** u
 
 ## Temario del curso
 
-<ul>
+<ol>
 {% for tema in site.temas %}
   <li>
     <a href="{{ tema.url | relative_url }}">
@@ -17,7 +17,7 @@ Este documento está escrito en **Markdown** y será renderizado como **HTML** u
     </a>
   </li>
 {% endfor %}
-</ul>
+</ol>
 
 ## Fichas técnicas
 
