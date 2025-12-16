@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Introducción a Python"
+title: "Introducción patito a Python"
 author: "Dr. Luis Morales Velazquez"
 ---
 
