@@ -3,6 +3,7 @@ layout: default
 title: "Sintaxis de Python"
 author: "Dr. Luis Morales Velazquez"
 type: tema
+parent: tema-01
 ---
 
 # Sintaxis de Python
