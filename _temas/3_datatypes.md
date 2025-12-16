@@ -4,7 +4,7 @@ title: "Tipos de datos en Python"
 author: "Dr. Luis Morales Velazquez"
 ---
 
-# Tipos de datos en Python
+# Variables y tipos de datos en Python
 Python usa un modelo de tipos dinámicos, donde las variables se ajustan de forma automática dependiendo del valor asignado. No es necesario declarar el tipo de dato explícitamente.
 
 Se reconocen los siguientes tipos de datos:
