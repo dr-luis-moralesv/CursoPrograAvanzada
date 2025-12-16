@@ -2,6 +2,7 @@
 layout: default
 title: "Sintaxis de Python"
 author: "Dr. Luis Morales Velazquez"
+type: tema
 ---
 
 # Sintaxis de Python
