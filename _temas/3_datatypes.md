@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tipos de datos en Python"
+title: "Variables y tipos de datos en Python"
 author: "Dr. Luis Morales Velazquez"
 ---
 
@@ -58,6 +58,11 @@ x = list(("apple", "banana", "cherry")) # a lista
 
 # Videos recomendados
 
+## Declaración de variables
+
 [![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Gf9wLsCJDqc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
+
+## Reglas de nomenclatura para variables
+
 [![Video: Declaracion de variables](https://img.youtube.com/vi/4WVZBtqqVM4/0.jpg)](https://www.youtube.com/watch?v=Hsbo6V2BJ3U&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)
 
