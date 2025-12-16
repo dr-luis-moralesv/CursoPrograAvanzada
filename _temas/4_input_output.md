@@ -33,3 +33,10 @@ Impresión usando cadena de formato
 x = 45
 print(f"El valor de la variable x es {x} !")
 ```
+
+## Entrada de datos
+
+```python
+num = input("Escribe un número: ")
+print("El número es ",num)
+```
