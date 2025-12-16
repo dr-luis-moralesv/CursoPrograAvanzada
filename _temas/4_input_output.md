@@ -18,3 +18,18 @@ La función `print()` admite comillas dobles o comilla sencilla.
 print("Hola mundo!")
 print('Hola mundo!')
 ```
+## Impresión de variables
+
+Impresión de variables.
+
+```python
+x = 45
+print("El valor de la variable x es",x,"!")
+```
+
+Impresión usando cadena de formato
+
+```python
+x = 45
+print(f"El valor de la variable x es {x} !")
+```
