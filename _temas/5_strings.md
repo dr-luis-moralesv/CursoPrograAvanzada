@@ -58,4 +58,38 @@ print(b[2:]) # Copia 'la Mundo!'
 print(b[-5:-2]) # Copia desde el final 'und'
 ```
 
+# Concatenar cadenas
 
+Para unir dos o más cadenas se usa el operador '+'.
+
+```python
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+```
+
+# Cadenas de formato
+
+Las cadenas de formato ofrecen mayor control sobre la impresión de variables y formatos.
+
+```python
+price = 59
+txt = f"The price is {price} dollars"
+print(txt)
+```
+
+Agregando el operador dos puntos (:) se puede especificar el formato de impresión exacto.
+
+```python
+price = 59
+txt = f"The price is {price:.2f} dollars"
+print(txt)
+```
+
+Adicionalmente, es posible evaluar expresiones matemáticas dentro de marcador de posición como:
+
+```python
+txt = f"The price is {20 * 59} dollars"
+print(txt)
+```
