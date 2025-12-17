@@ -18,7 +18,7 @@ Además, se añade el operador de exponenciación '**'.
 ```python
 x = 12
 y = 5
-print(x // y) # División flotante
+print(x / y) # División flotante
 print(x // y) # División de enteros
 ```
 
