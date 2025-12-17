@@ -6,7 +6,7 @@ author: "Dr. Luis Morales Velazquez"
 
 # Listas
 
-Las listas son objetos que almacenan valores en orden fijo, los nuevos elementos se añaden al final de la lista.
+Las listas son objetos que almacenan valores en orden; es posible modificar su tamaño y su contenido.
 
 ```python
 lista = ["apple", "banana", "cherry"]
