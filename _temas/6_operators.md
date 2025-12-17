@@ -108,7 +108,7 @@ La precedencia indica la prioridad de evaluación del operador en una expresión
 
 | Prioridad | Operador | 	Descripción |
 |-----------|----------|--------------|
-|1 | () |	Parentesis	|
+|1 | () |	Paréntesis	|
 |2 | ** |	Exponenciación |	
 |3 | +x  -x  ~x |	Más unario, menos unario y NOT bitwise 	|
 |4 | *  /  //  % |	Multiplicación, división, división entera, and módulo 	|
