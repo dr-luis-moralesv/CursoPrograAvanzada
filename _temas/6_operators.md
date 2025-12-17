@@ -31,3 +31,8 @@ Se definen 3 operadores binarios: `and`, `or` y `not`.
 
 En la evaluación cualquier valor 0 o cadena vacía ("") se interpreta como `false`, en caso contrario, se considera `true`.
 
+```python
+x = 5
+print(not(x > 3 and x < 10))
+```
+
