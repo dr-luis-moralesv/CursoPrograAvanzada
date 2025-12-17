@@ -16,8 +16,8 @@ Python creado por Guido Van Rossum en 1989, es un lenguaje de programación de a
 En el ámbito de la Ingeniería Electromecánica, Python se emplea de manera efectiva para el análisis y procesamiento de datos experimentales, la modelación y simulación de sistemas electromecánicos, el desarrollo de aplicaciones de supervisión y control, así como para la automatización de pruebas y procedimientos de laboratorio. Su capacidad para interactuar con hardware mediante interfaces de comunicación estándar y su facilidad para integrarse con lenguajes de bajo nivel lo hacen especialmente adecuado para aplicaciones que combinan software de alto nivel con sistemas embebidos y dispositivos industriales.
 </p>
 
-Guido Van Rossum
 ![Guido Van Rossum]({{ site.baseurl }}/assets/jpg/Guido_van_Rossum.jpg)
+*Guido Van Rossum, creador de Python.*
 
 <p style="text-align: justify;">
 En conjunto, Python proporciona al ingeniero electromecánico una plataforma flexible y potente para desarrollar soluciones técnicas, reducir tiempos de desarrollo y abordar problemas complejos de manera estructurada, alineándose con las demandas actuales de la industria y la investigación aplicada.
