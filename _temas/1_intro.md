@@ -17,7 +17,7 @@ En el ámbito de la Ingeniería Electromecánica, Python se emplea de manera efe
 </p>
 
 Guido Van Rossum
-![Guido Van Rossum]({{ site.baseurl }}assets/jpg/Guido_van_Rossum.jpg)
+![Guido Van Rossum]({{ site.baseurl }}/assets/jpg/Guido_van_Rossum.jpg)
 
 <p style="text-align: justify;">
 En conjunto, Python proporciona al ingeniero electromecánico una plataforma flexible y potente para desarrollar soluciones técnicas, reducir tiempos de desarrollo y abordar problemas complejos de manera estructurada, alineándose con las demandas actuales de la industria y la investigación aplicada.
