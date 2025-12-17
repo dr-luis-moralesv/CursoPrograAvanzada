@@ -74,7 +74,6 @@ También se usan métodos de modifición explícitos como:
 |--------|--------|---------|
 | `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
 | `append()` | Inserta un valor al final de la lista. | `lista.append("watermelon")` |
-| `extend()` | Inserta un valor al final de la lista. | `thislist = ["apple", "banana", "cherry"]`
-| | | `tropical = ["mango", "pineapple", "papaya"]`
+| `extend()` | Inserta un valor al final de la lista. | `thislist = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]`
 | | | `thislist.extend(tropical)` |
 
