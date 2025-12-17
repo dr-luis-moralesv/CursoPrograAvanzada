@@ -32,3 +32,26 @@ Uso del constructor `list()` para crear una lista.
 thislist = list(("apple", "banana", "cherry")) # Note los paréntesis dobles
 print(thislist)
 ```
+
+## Indexado de listas
+
+El acceso a los elementos de la lista se hace mediante el operador de índice `[ ]`.
+
+```python
+thislist = ["apple", "banana", "cherry"]
+print(thislist[1]) # Imprime el segundo elemento de la lista.
+```
+
+Cuando se usan índices negativos, la referencia se coloca al final de la lista, leyendo de derecha a izquierda.
+
+```python
+thislist = ["apple", "banana", "cherry"]
+print(thislist[-1]) # Imprime el último elemento de la lista.
+```
+
+Para obtener un rango de elementos, se usa el operador `:`, donde el índice de la izquierda marca el inicio (inclusivo) y el de la derecha el final (no inclusivo).
+
+```python
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5]) # Imprime los elementos del índice 2 al índice 4 (no incluye el índice 5).
+```
