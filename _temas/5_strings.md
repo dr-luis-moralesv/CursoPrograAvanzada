@@ -93,7 +93,9 @@ Adicionalmente, es posible evaluar expresiones matemáticas dentro de marcador d
 txt = f"The price is {20 * 59} dollars"
 print(txt)
 ```
-# Carácteres de escape
+# Caracteres de escape
+
+Los caracteres de escape son caracteres especiales que se pueden interpretar dentro de una cadena de texto.
 
 | Code | Resultado |
 |------|--------|
@@ -106,4 +108,5 @@ print(txt)
 |\f |	Avance de formulario |	
 |\ooo |	Valor octal |	
 |\xhh |	Valor hexadecimal |
+
 
