@@ -37,14 +37,14 @@ print(a)
 Para leer un carácter dentro de una cadena se usa el operador de índice.
 
 ```python
-a = "Hello, World!"
+a = "Hola Mundo!"
 print(a[1])
 ```
 
 La longitud de una cadena se obtiene con la función `len()`.
 
 ```python
-a = "Hello, World!"
+a = "Hola Mundo!"
 print(len(a))
 ```
 
