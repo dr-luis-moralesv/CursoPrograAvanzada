@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Colecciones"
+title: "Listas"
 author: "Dr. Luis Morales Velazquez"
 ---
 
