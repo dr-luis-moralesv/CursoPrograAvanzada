@@ -49,3 +49,26 @@ x = 5
 print(not(x > 3 and x < 10))
 ```
 
+## Operadores de asignación
+
+El operador de asignación básico es `=` y como en C se  puede combinar con otros operadores para compactar operaciones.
+
+| Operador |	Ejemplo |	Lo mismo que |
+|----------|----------|--------------|
+| = |	x = 5 |	x = 5 |	
+| += |	x += 3 |	x = x + 3 |	
+| -= |	x -= 3 |	x = x - 3 |	
+| *= |	x *= 3 |	x = x * 3 |	
+| /= |	x /= 3 |	x = x / 3 |	
+| %= |	x %= 3 |	x = x % 3 |	
+| //= |	x //= 3 |	x = x // 3 |	
+| **= |	x **= 3 |	x = x ** 3 |
+| &= |	x &= 3 |	x = x & 3 |	
+| \|= |	x \|= 3 |	x = x | 3 |	
+| ^= |	x ^= 3 |	x = x ^ 3 |	
+| >>= |	x >>= 3 |	x = x >> 3 |	
+| <<= |	x <<= 3 |	x = x << 3 |	
+| := |	print(x := 3) |	x = 3; print(x) |
+
+El operador `:=` sirve para hacer asignaciones dentro de expresiones más largas, se conoce como operador morsa (*walrus operator*).
+
