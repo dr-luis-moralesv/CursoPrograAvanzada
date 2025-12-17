@@ -55,3 +55,7 @@ Para obtener un rango de elementos, se usa el operador `:`, donde el índice de 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5]) # Imprime los elementos del índice 2 al índice 4 (no incluye el índice 5).
 ```
+
+Para considerar todos los elementos hasta antes de una posición se usa `[:5]` y para considear desde una posición hasta el final de la lista, se usa `[3:]`.
+
+
