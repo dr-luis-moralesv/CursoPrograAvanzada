@@ -100,10 +100,10 @@ print(list3)
 
 | Método | Acción |
 |--------|--------|
-| copy() |	Devuelve una copia de la lista. |
-| count() |	Regresa el número de elementos con el valor especificado. |
-| index()	| Devuelve el índice del primer elemento con el valor especificado. |
-| reverse()	| Invierte el orden de la lista. |
-| sort()	| Ordena la lista. |
+| `copy()` |	Devuelve una copia de la lista. |
+| `count()` |	Regresa el número de elementos con el valor especificado. |
+| `index()`	| Devuelve el índice del primer elemento con el valor especificado. |
+| `reverse()`	| Invierte el orden de la lista. |
+| `sort()`	| Ordena la lista. |
 
 
