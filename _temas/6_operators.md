@@ -10,13 +10,13 @@ La mayoría de los operadores en Python son compatibles con los operadores en C,
 
 ## Operadores aritméticos
 
-Los operadores aritméticos '+', '-', '*' y '%' tienen la misma forma que en C.
+Los operadores aritméticos `+`, `-`, `*` y `%` tienen la misma forma que en C.
 
-El operador de división '/' siempre retorna un valor en punto flotante.
+El operador de división `/` siempre retorna un valor de punto flotante.
 
-El operador de división entera es '//'.
+El operador de división entera es `//`.
 
-Además, se añade el operador de exponenciación '**'.
+Además, se añade el operador de exponenciación `**`.
 
 ```python
 x = 12
@@ -64,7 +64,7 @@ El operador de asignación básico es `=` y como en C se  puede combinar con otr
 | //= |	x //= 3 |	x = x // 3 |	
 | **= |	x **= 3 |	x = x ** 3 |
 | &= |	x &= 3 |	x = x & 3 |	
-| \|= |	x \|= 3 |	x = x | 3 |	
+| \|= |	x \|= 3 |	x = x \| 3 |	
 | ^= |	x ^= 3 |	x = x ^ 3 |	
 | >>= |	x >>= 3 |	x = x >> 3 |	
 | <<= |	x <<= 3 |	x = x << 3 |	
@@ -72,3 +72,22 @@ El operador de asignación básico es `=` y como en C se  puede combinar con otr
 
 El operador `:=` sirve para hacer asignaciones dentro de expresiones más largas, se conoce como operador morsa (*walrus operator*).
 
+## Operadores de comparación
+
+Los operadores de comparación: `==`, `!=`, `>`, `<`, `>=` y `<=` siguen las mismas reglas que en C.
+
+## Operadores de identidad
+
+Son operadores para comparar objetos en la memoria; son `is` e `is not`.
+
+El operador `is` comprueba si los dos valores apuntan al mismo objeto, mientras el operador `==` compara el contenido de los objetos.
+
+```python
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+z = x
+
+print(x is z) # True
+print(x is y) # False
+print(x == y) # True
+```
