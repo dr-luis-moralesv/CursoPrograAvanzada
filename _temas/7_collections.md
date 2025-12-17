@@ -72,7 +72,17 @@ También se usan métodos de modifición explícitos como:
 
 | Método | Acción | Ejemplo |
 |--------|--------|---------|
-| `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
 | `append()` | Inserta un valor al final de la lista. | `lista.append("watermelon")` |
-| `extend()` | Inserta un valor al final de la lista. | `thislist = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]` <br> `thislist.extend(tropical)` |
+| `clear()` | Deja vacía toda la lista. | thislist.clear() |
+| `extend()` | Extiende la lista con otra colección. | `thislist = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]` <br> `thislist.extend(tropical)` |
+| `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
+| `pop()` | Elimina un elemento por índice. |  `thislist.pop(1)` |
+| `remove()` | Elimina el elemento indicado. | `thislist.remove("banana")` |
 
+Adicionalmente, el operador `del` sirve para eliminar toda la lista o elementos seleccionados.
+
+```python
+thislist = ["apple", "banana", "cherry"]
+del thislist[0] # Elimina el primer elemento
+del thislist  # Elimina completamente el objeto
+```
