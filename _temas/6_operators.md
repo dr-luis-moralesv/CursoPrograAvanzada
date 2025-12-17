@@ -94,7 +94,7 @@ print(x == y) # True
 
 ## Operadores de membrecía
 
-Son operadores que buscan objetos dentro de listas o colecciones; son `in` e `not in`.
+Son operadores que buscan objetos dentro de listas o colecciones; son `in` y `not in`.
 
 ```python
 fruits = ["apple", "banana", "cherry"]
