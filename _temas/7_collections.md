@@ -58,4 +58,23 @@ print(thislist[2:5]) # Imprime los elementos del índice 2 al índice 4 (no incl
 
 Para considerar todos los elementos hasta antes de una posición se usa `[:5]` y para considear desde una posición hasta el final de la lista, se usa `[3:]`.
 
+## Modificar una lista
+
+Para modificar una lista se hace se puede modificar directamente asignando un nuevo valor a la posición o rango de posiciones deseadas como:
+
+```python
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+thislist[1] = "blackcurrant" # Reemplaza el segundo valor
+thislist[1:3] = ["blackcurrant", "watermelon"] # Reemplaza el segundo y el tercer valor
+thislist[1:2] = ["pineapple", "papaya"] # Reemplaza el segundo valor insertando dos valores
+```
+También se usan métodos de modifición explícitos como:
+
+| Método | Acción | Ejemplo |
+|--------|--------|---------|
+| `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
+| `append()` | Inserta un valor al final de la lista. | `lista.append("watermelon")` |
+| `extend()` | Inserta un valor al final de la lista. | `thislist = ["apple", "banana", "cherry"]
+tropical = ["mango", "pineapple", "papaya"]
+thislist.extend(tropical)` |
 
