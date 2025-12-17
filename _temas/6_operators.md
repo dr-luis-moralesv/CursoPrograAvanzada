@@ -32,7 +32,7 @@ Los operadores bit-a-bit en Python son idénticos a las versiones de C y siguen 
 | Operador |	Nombre |
 |----------|---------|
 | &  |	AND | 	 	
-| `|` |	OR 	|
+| \| |	OR 	|
 | ^ |	XOR |	
 | ~ |	NOT |
 | << |	Corrimiento a la izquierda |
