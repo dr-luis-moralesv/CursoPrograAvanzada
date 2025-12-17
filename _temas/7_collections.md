@@ -86,3 +86,24 @@ lista = ["apple", "banana", "cherry"]
 del lista[0] # Elimina el primer elemento
 del lista  # Elimina completamente el objeto
 ```
+
+Para unir listas también se puede usar el operador `+`
+
+```python
+list1 = ["a", "b", "c"]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+print(list3) 
+```
+### Otros métodos útiles par trabajar con listas
+
+| Método | Acción |
+|--------|--------|
+| copy() |	Devuelve una copia de la lista. |
+| count() |	Regresa el número de elementos con el valor especificado. |
+| index()	| Devuelve el índice del primer elemento con el valor especificado. |
+| reverse()	| Invierte el orden de la lista. |
+| sort()	| Ordena la lista. |
+
+
