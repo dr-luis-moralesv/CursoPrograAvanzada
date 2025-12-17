@@ -17,6 +17,7 @@ En el ámbito de la Ingeniería Electromecánica, Python se emplea de manera efe
 </p>
 
 ![Guido Van Rossum]({{ site.baseurl }}/assets/jpg/Guido_van_Rossum.jpg)
+
 *Guido Van Rossum, creador de Python.*
 
 <p style="text-align: justify;">
