@@ -73,16 +73,16 @@ También se usan métodos de modifición explícitos como:
 | Método | Acción | Ejemplo |
 |--------|--------|---------|
 | `append()` | Inserta un valor al final de la lista. | `lista.append("watermelon")` |
-| `clear()` | Deja vacía toda la lista. | `thislist.clear()` |
-| `extend()` | Extiende la lista con otra colección. | `thislist = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]` <br> `thislist.extend(tropical)` |
+| `clear()` | Deja vacía toda la lista. | `lista.clear()` |
+| `extend()` | Extiende la lista con otra colección. | `lista = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]` <br> `lista.extend(tropical)` |
 | `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
-| `pop()` | Elimina un elemento por índice. |  `thislist.pop(1)` |
-| `remove()` | Elimina el elemento indicado. | `thislist.remove("banana")` |
+| `pop()` | Elimina un elemento por índice. |  `lista.pop(1)` |
+| `remove()` | Elimina el elemento indicado. | `lista.remove("banana")` |
 
 Adicionalmente, el operador `del` sirve para eliminar toda la lista o elementos seleccionados.
 
 ```python
-thislist = ["apple", "banana", "cherry"]
-del thislist[0] # Elimina el primer elemento
-del thislist  # Elimina completamente el objeto
+lista = ["apple", "banana", "cherry"]
+del lista[0] # Elimina el primer elemento
+del lista  # Elimina completamente el objeto
 ```
