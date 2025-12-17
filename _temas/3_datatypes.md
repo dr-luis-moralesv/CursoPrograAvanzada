@@ -45,6 +45,28 @@ x = memoryview(bytes(5)) 	              # memoryview
 x = None 	                              # NoneType
 ```
 
+## Asignación múltiple
+
+Asignación a variables individuales.
+```python
+x, y, z = "Orange", "Banana", "Cherry"
+```
+
+Asigna el mismo valor a varias variables en una sola línea.
+```python
+x = y = z = "Orange"
+```
+
+Desempacar colecciones tipo 'list' y 'tuple'.
+
+```python
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+```
+
 ## Cambio de tipo de dato
 
 Para cambiar el tipo de dato de una variable en Python solo se requiere volver a asignar dicha variable.
