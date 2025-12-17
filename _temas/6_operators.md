@@ -27,7 +27,7 @@ print(x // y) # División de enteros
 
 ## Opearadores bit-a-bit (*bitwise*)
 
-Los operadores bit-a-bit en Python son idénticos a las versiones de C y siguen las mismas reglas excepto el corrimiento a la derecha que considera la extensión de signo.
+Los operadores bit-a-bit en Python son idénticos a las versiones de C y siguen las mismas reglas excepto el corrimiento a la derecha (>>) que considera la extensión de signo.
 
 | Operador |	Nombre |
 |----------|---------|
