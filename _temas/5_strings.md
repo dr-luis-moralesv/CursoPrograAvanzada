@@ -93,3 +93,17 @@ Adicionalmente, es posible evaluar expresiones matemáticas dentro de marcador d
 txt = f"The price is {20 * 59} dollars"
 print(txt)
 ```
+# Carácteres de escape
+
+| Code | Resultado |
+|------|--------|
+|\' |	Comilla sencilla |	
+|\\ |	Diagonal invertida |
+|\n |	Nueva línea |	
+|\r |	Retorno de carro |	
+|\t |	Tabulador |	
+|\b |	Retroceso | 	
+|\f |	Avance de formulario |	
+|\ooo |	Valor octal |	
+|\xhh |	Valor hexadecimal |
+
