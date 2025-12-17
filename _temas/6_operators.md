@@ -91,3 +91,34 @@ print(x is z) # True
 print(x is y) # False
 print(x == y) # True
 ```
+
+## Operadores de membrecía
+
+Son operadores que buscan objetos dentro de listas o colecciones; son `in` e `not in`.
+
+```python
+fruits = ["apple", "banana", "cherry"]
+
+print("banana" in fruits)
+```
+
+## Precedencia de operadores
+
+La precedencia indica la prioridad de evaluación del operador en una expresión, la tabla muestra la presedencia de todos los operadores desde la más alta a la más baja.
+
+| Prioridad | Operador | 	Descripción |
+|-----------|----------|--------------|
+|1 | () |	Parentesis	|
+|2 | ** |	Exponenciación |	
+|3 | +x  -x  ~x |	Más unario, menos unario y NOT bitwise 	|
+|4 | *  /  //  % |	Multiplicación, división, división entera, and módulo 	|
+|5 | +  - |	Suma y resta 	 |
+|6 | <<  >> |	Corrimientos 	|
+|7 | & |	Bitwise AND	|
+|8 | ^ |	Bitwise XOR 	|
+|9 | \| |	Bitwise OR 	|
+|10 | ==  !=  >  >=  <  <=  is  is not  in  not in  |	Comparaciones, identidad, y membrecía 	|
+|11 | not | NOT lógico |
+|12 | and |	AND 	|
+|13 | or 	| OR |
+
