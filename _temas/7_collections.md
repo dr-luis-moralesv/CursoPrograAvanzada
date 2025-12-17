@@ -73,7 +73,7 @@ También se usan métodos de modifición explícitos como:
 | Método | Acción | Ejemplo |
 |--------|--------|---------|
 | `append()` | Inserta un valor al final de la lista. | `lista.append("watermelon")` |
-| `clear()` | Deja vacía toda la lista. | thislist.clear() |
+| `clear()` | Deja vacía toda la lista. | `thislist.clear()` |
 | `extend()` | Extiende la lista con otra colección. | `thislist = ["apple", "banana", "cherry"]` <br> `tropical = ["mango", "pineapple", "papaya"]` <br> `thislist.extend(tropical)` |
 | `insert()` | Inserta un valor en la posición indicada. | `lista.insert(2, "watermelon")` |
 | `pop()` | Elimina un elemento por índice. |  `thislist.pop(1)` |
