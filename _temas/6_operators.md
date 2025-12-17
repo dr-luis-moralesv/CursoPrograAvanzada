@@ -11,8 +11,11 @@ La mayoría de los operadores en Python son compatibles con los operadores en C,
 ## Operadores aritéticos
 
 Los operadores aritméticos '+', '-', '*' y '%' tienen la misma forma que en C.
+
 El operador de división '/' siempre retorna un valor en punto flotante.
+
 El operador de división entera es '//'.
+
 Además, se añade el operador de exponenciación '**'.
 
 ```python
@@ -21,4 +24,10 @@ y = 5
 print(x / y) # División flotante
 print(x // y) # División de enteros
 ```
+
+## Operadores binarios
+
+Se definen 3 operadores binarios: `and`, `or` y `not`.
+
+En la evaluación cualquier valor 0 o cadena vacía ("") se interpreta como `false`, en caso contrario, se considera `true`.
 
