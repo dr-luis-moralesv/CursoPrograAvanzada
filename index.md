@@ -18,27 +18,3 @@ Al término del curso, el estudiante será capaz de desarrollar soluciones de pr
 </p>
 
 ## Temario del curso
-
-Los temas básicos del curso se encuentran en la siguiente lista.
-
-<ol>
-{% for tema in site.temas %}
-  <li>
-    <a href="{{ tema.url | relative_url }}">
-      {{ tema.title }}
-    </a>
-  </li>
-{% endfor %}
-</ol>
-
-## Fichas técnicas
-
-<ul>
-{% for ficha in site.fichas %}
-  <li>
-    <a href="{{ ficha.url | relative_url }}">
-      {{ ficha.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
