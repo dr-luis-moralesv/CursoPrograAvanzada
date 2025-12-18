@@ -36,6 +36,11 @@ Las tuplas se acceden de forma similar a las listas mediante el operador de índ
 
 Siguen las mismas reglas de acceso que las listas.
 
+```python
+tupla = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(tupla[2:]) # Imprime los valores desde "cherry" hasta el final.
+```
+
 ## Métodos útiles para tuplas
 
 | Método | Descripción |
@@ -45,7 +50,3 @@ Siguen las mismas reglas de acceso que las listas.
 
 
 
-```python
-tupla = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
-print(tupla[2:]) # Imprime los valores desde "cherry" hasta el final.
-```
