@@ -36,6 +36,15 @@ Las tuplas se acceden de forma similar a las listas mediante el operador de índ
 
 Siguen las mismas reglas de acceso que las listas.
 
+## Métodos útiles para tuplas
+
+| Método | Descripción |
+|--------|-------------|
+| `count()` |	Retorna el número de veces que el valor especificado está presente en una tupla. |
+| `index()`	| Busca el valor especificado en la tupla y devuelve la posición donde se encuentra. |
+
+
+
 ```python
 tupla = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
 print(tupla[2:]) # Imprime los valores desde "cherry" hasta el final.
