@@ -23,6 +23,13 @@ También pueden contener elementos de tipos de datos diferentes
 tupla = ("abc", 34, True, 40, "male")
 ```
 
+El constructor `tuple()` se usa para definir una tupla sin ambigüedad.
+
+```python
+tupla = tuple(("apple", "banana", "cherry")) # Ponga atención al doble paréntesis
+print(tupla)
+```
+
 ## Acceso a elementos
 
 Las tuplas se acceden de forma similar a las listas mediante el operador de índice `[ ]`. Los elementos se numeran iniciando en 0.
