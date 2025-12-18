@@ -18,7 +18,7 @@ print(thisset)
 
 Los valores duplicados en la definición de conjuntos se eliminan de forma silenciosa. Algunos valores tiene equivalencia directa, por ejemplo: `True` es equivalente a 1 y `False` a 0.
 
-## El constructor `set()`
+## El constructor
 
 Para declarar un conjunto es posible usar el constructor `set()`.
 
