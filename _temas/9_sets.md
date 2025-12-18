@@ -4,7 +4,7 @@ title: "Conjuntos"
 author: "Dr. Luis Morales Velazquez"
 ---
 
-# Conjuntos (set)
+# Conjuntos (`set`)
 
 Los conjuntos (`set`) en Python son colecciones que almacenan valores que no cambian de forma no ordenada.
 Lo anterior implica que no pueden accederse por índice y no pueden cambiar una vez definidos. Los conjuntos no admiten valores duplicados.
