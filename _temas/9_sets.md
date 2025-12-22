@@ -80,6 +80,7 @@ print(thisset)
 | pop() |	|  Elimina un elemento del conjunto (no hay un orde específico).
 | remove() 	| | Elimina el elemento especificado.
 | symmetric_difference() |	^ |	Devuelve un conjunto con las diferencias simétricas de dos conjuntos.
-| symmetric_difference_update() |	^= |	Inserts the symmetric differences from this set and another
-| union() |	\| | 	Return a set containing the union of sets
-| update() |	\|= |	Update the set with the union of this set and others
+| symmetric_difference_update() |	^= | Inserta las diferencias simétricas de este conjunto a otro.
+| union() |	\| | Devuelve un conjunto que contiene la unión de los conjuntos.
+| update() |	\|= | Actualiza el set con la unión de este conjunto y otros.
+
