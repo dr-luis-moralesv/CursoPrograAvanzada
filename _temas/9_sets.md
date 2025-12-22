@@ -26,3 +26,5 @@ Para declarar un conjunto es posible usar el constructor `set()`.
 thisset = set(("apple", "banana", "cherry")) # Note el doble paréntesis
 print(thisset) 
 ```
+
+Esta es un pueba
